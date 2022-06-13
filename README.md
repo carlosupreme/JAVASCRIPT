@@ -11,3 +11,7 @@
 2. Customizable quizes app
 3. CRUD with API
 4. Blog Vanilla JS SPA
+
+# Completed
+
+Ping pong game 06/12/22
