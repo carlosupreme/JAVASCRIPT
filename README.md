@@ -2,7 +2,7 @@
 ---
 ---
 #### NOTE: I'm learning js 
-#### Date: 03/31/22
+#### Date: MAR/31/22
 ---
 ---
 # Projects ideas
@@ -14,4 +14,4 @@
 
 # Completed
 
-Ping pong game 06/12/22
+Ping pong game JUL/12/22
